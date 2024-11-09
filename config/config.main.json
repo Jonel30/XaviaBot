@@ -22,7 +22,7 @@
         "100093172417993"
     ],
     "NAME": "Jay",
-    "PREFIX": "",
+    "PREFIX": "*",
     "timezone": "Asia/Ho_Chi_Minh",
     "REFRESH": "43200000",
     "MAX_BALANCE_LIMIT": "-1"
